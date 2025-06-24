@@ -80,9 +80,12 @@ Minha intenção é evoluir este projeto, aplicando conceitos de:
 Fique à vontade para acompanhar as atualizações e, se tiver sugestões, elas serão bem-vindas!
 
 ---
+## ✉️ **Contato**
 
-## 📧 Contato
+Sinta-se à vontade para me contatar:
 
-Murilo Rocha de Araujo - [rochadearaujomurilo@gmai.com](mailto:rochadearaujomurilo@gmai.com)
+* **LinkedIn:** [https://www.linkedin.com/in/murilo-rocha2004/](https://www.linkedin.com/in/murilo-rocha2004/)
+* **Email:** [rochadearaujomurilo@gmail.com](mailto:rochadearaujomurilo@gmail.com)
+* **Portfólio:** [https://murilo-rocha-2004.github.io](https://murilo-rocha-2004.github.io)
 
-[Meu perfil no LinkedIn](https://www.linkedin.com/in/murilo-rocha2004/)
+---
